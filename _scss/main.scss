@@ -1,6 +1,13 @@
 @import "reset";
 @import "syntax";
+@import "typography";
+
 
 body {
-    background: white;
+    background: #fff;
+    line-height: 1.45;
+  font-weight: 400;
+  max-width: 30em;
+  margin: 0 auto;
+  color: #333;
 }

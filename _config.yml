@@ -1,4 +1,7 @@
-name: Your New Jekyll Site
+name: Chunk a Monk
 markdown: redcarpet
 highlighter: pygments # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
+
+sass:
+  style: compressed
